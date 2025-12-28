@@ -37,7 +37,7 @@ java {
 }
 
 tasks.jar {
-    exclude("**/Test.java")
+    exclude("**/Test.class")
 }
 
 publishing {
