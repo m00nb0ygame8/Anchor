@@ -28,10 +28,10 @@
           "name": "Anchor-1.0.0-24.jar",
           "url": "Anchor-1.0.0-24.jar",
           "size": 14569,
-          "sha512": "05514bb769f47758528a0107b76fb1729def3328342c80f5642983f7931b26a226b9da0c013f49dbb47ca999c0c34dea8f6e0ec6a4cc363af89c09eda34229fe",
-          "sha256": "407f42738ff72903a6939f20cef1b88bc98d4d4c91cec942081a9541767104c0",
-          "sha1": "096bc5af2419ea4d27e52e74d52bd3c41f921d4c",
-          "md5": "eb0255eadcfc11a88d4217197486a8d0"
+          "sha512": "a884208814f95a3255ecc2839f86b83edb28320dc224c1f07d2316638af6ecf730b49ceda0f5434a7c80c1609322039960e2fe42bb10c4b7e3621e5eb140ac26",
+          "sha256": "556ff8584e8b230314d55e656059691e3b0ad8d7d3aab4e6a8199e9ce3e21b84",
+          "sha1": "d2f7c76bd96d2eb4965d314732bfbdf736e15500",
+          "md5": "9429129268cd4e2393b8d07b8448368b"
         }
       ]
     },
@@ -65,10 +65,10 @@
           "name": "Anchor-1.0.0-24.jar",
           "url": "Anchor-1.0.0-24.jar",
           "size": 14569,
-          "sha512": "05514bb769f47758528a0107b76fb1729def3328342c80f5642983f7931b26a226b9da0c013f49dbb47ca999c0c34dea8f6e0ec6a4cc363af89c09eda34229fe",
-          "sha256": "407f42738ff72903a6939f20cef1b88bc98d4d4c91cec942081a9541767104c0",
-          "sha1": "096bc5af2419ea4d27e52e74d52bd3c41f921d4c",
-          "md5": "eb0255eadcfc11a88d4217197486a8d0"
+          "sha512": "a884208814f95a3255ecc2839f86b83edb28320dc224c1f07d2316638af6ecf730b49ceda0f5434a7c80c1609322039960e2fe42bb10c4b7e3621e5eb140ac26",
+          "sha256": "556ff8584e8b230314d55e656059691e3b0ad8d7d3aab4e6a8199e9ce3e21b84",
+          "sha1": "d2f7c76bd96d2eb4965d314732bfbdf736e15500",
+          "md5": "9429129268cd4e2393b8d07b8448368b"
         }
       ]
     }

@@ -36,6 +36,10 @@ java {
 
 }
 
+tasks.jar {
+    exclude("**/Test.java")
+}
+
 publishing {
     publications {
         mavenJava(MavenPublication) {
